@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage captures user's flavor input and use forEach method on jQuery to create a list on the bottom of the page._
+_This webpage captures user's flavor input and use forEach method on jQuery to create a list on the bottom of the page._
 
 ## Setup/Installation Requirements
 
